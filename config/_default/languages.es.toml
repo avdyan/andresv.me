@@ -6,7 +6,7 @@ weight = 1
 rtl = false
 
 title = "Caché Cuántico"
-# logo = "img/logo.png"
+logo = "img/logo.webp"
 description = "¡Diseña tu futuro!"
 # copyright = "Copy, _right?_ :thinking_face:"
 
@@ -14,7 +14,7 @@ dateFormat = "2 January 2006"
 
 [author]
   name = "Andrés Ujpán"
-  image = "img/blowfish_logo.png"
+  image = "img/logo.webp"
   headline = "Bienvenido a mi blog"
   bio = "Si estás leyendo esto, te lo agradezco bastante."
   links = [
