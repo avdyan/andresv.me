@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://beta.cachecuantico.com/sitemap.xml
