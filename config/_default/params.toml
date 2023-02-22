@@ -20,7 +20,7 @@ showViews = false
 # robots = ""
 
 disableImageZoom = false
-disableImageOptimization = true
+disableImageOptimization = false
 
 defaultBackgroundImage = "img/back.webp" # used as default for background images 
 
