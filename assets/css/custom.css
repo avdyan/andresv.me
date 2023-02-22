@@ -53,7 +53,7 @@
 
 html {
     font-family: "Wotfard","Wotfard-fallback",sans-serif;
-    font-size: 14pt;
+    /* font-size: 14pt; */
     line-height: calc(1em + 0.725rem);
     -webkit-font-smoothing: antialiased;
 }
