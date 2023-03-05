@@ -12,7 +12,7 @@
   
     
       <url>
-            <loc>https://andresv.me/posts/repositorios/</loc>
+            <loc>https://andresv.me/blog/repositorios/</loc>
             <lastmod>2023-01-28T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -21,7 +21,7 @@
   
     
       <url>
-            <loc>https://andresv.me/tags/github/</loc>
+            <loc>https://andresv.me/blog/</loc>
             <lastmod>2023-01-28T00:00:00+00:00</lastmod>
             <changefreq>daily</changefreq>
             <priority>0.5</priority>
@@ -29,54 +29,15 @@
     
   
     
-      <url>
-            <loc>https://andresv.me/posts/</loc>
-            <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
+  
     
   
     
-      <url>
-            <loc>https://andresv.me/tags/programacion/</loc>
-            <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
+  
     
   
     
-      <url>
-            <loc>https://andresv.me/tags/</loc>
-            <lastmod>2023-01-28T00:00:00+00:00</lastmod>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
   
-    
-      <url>
-            <loc>https://andresv.me/autores/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://andresv.me/categorias/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
-    
-  
-    
-      <url>
-            <loc>https://andresv.me/series/</loc>
-            <changefreq>daily</changefreq>
-            <priority>0.5</priority>
-          </url>
     
   
 </urlset>
