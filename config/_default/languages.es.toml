@@ -15,7 +15,7 @@ dateFormat = "2 January 2006"
 [author]
   name = "Andrés Ujpán"
   image = "img/logo.png"
-  headline = "Bienvenido a mi blog"
+  # headline = "Bienvenido a mi blog"
   bio = "Si estás leyendo esto, eres un pro."
   links = [
     { email = "mailto:andres04u@gmail.com" },
