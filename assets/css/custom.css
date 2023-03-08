@@ -65,3 +65,7 @@ html {
 .min-h-\[148px\] {
     min-height: 100px;
 }
+
+.rounded-full {
+    border-radius: 25%;
+}
