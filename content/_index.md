@@ -4,7 +4,7 @@
 ---
 
 {{< typeit 
-  tag=h3
+  tag=h4
   speed=25
   breakLines=false
   loop=false
