@@ -1,6 +1,6 @@
 ---
     title: Inicio
-    description: ¡Bienvenido a mi mundo tecnológico! Descubre todo lo que necesitas saber sobre programación, tecnología y ciencias en mi página web personal. Aprende, experimenta y explora conmigo las últimas tendencias y avances en el mundo digital. ¡Únete a mí en este emocionante viaje hacia el futuro tecnológico!
+    description: ¡Bienvenido a mi mundo tecnológico! Descubre todo lo que necesitas saber sobre programación, tecnología y ciencias en mi blog.
 ---
 
 {{< typeit 
